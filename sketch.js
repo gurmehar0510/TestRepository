@@ -44,7 +44,7 @@ function draw(){
     console.log(box2.body.position.x);
     console.log(box2.body.position.y);
     console.log(box2.body.angle);
-    //console.log("test");
+    console.log("test");
     box1.display();
     box2.display();
     ground.display();
